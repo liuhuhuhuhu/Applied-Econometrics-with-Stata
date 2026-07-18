@@ -1,0 +1,25 @@
+# Stata temporary files
+*.log
+*.smcl
+*.tmp
+*.bak
+
+# Data files
+*.dta
+*.csv
+*.xlsx
+*.xls
+
+# Generated outputs inside nested output folders
+**/output/*.png
+**/output/*.jpg
+**/output/*.dta
+**/output/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
