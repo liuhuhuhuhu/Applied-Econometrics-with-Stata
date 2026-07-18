@@ -17,17 +17,6 @@ The workflow includes:
 - Price and income elasticity analysis
 
 
-## Project Structure
-
-```
-01_Demand_System_Estimation
-│
-├── code/
-├── data/
-├── output/
-└── README.md
-```
-
 
 ## Econometric Methods
 
